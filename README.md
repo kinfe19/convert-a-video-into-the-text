@@ -75,9 +75,6 @@ Follow these steps to extract text from a video:
 
 ## Contributing
 
-If you'd like to contribute to this project, feel free to open issues, submit pull requests, or provide feedback. Your contributions are welcome and appreciated.
-
----
 
 © 2023 Kinfe Masrie
 ```
